@@ -34,19 +34,22 @@ An AI-powered meeting intelligence tool that takes any YouTube video or local vi
 
 ### 🏠 Homepage — Dashboard Overview
 
-![Homepage](assets/screenshots/homepage.png)
+<img width="1919" height="852" alt="image" src="https://github.com/user-attachments/assets/93ef0752-5518-49d5-8535-0d2402786f53" />
+
 
 <br>
 
 ### 📝 Transcript & Summary Panel
 
-![Transcript](assets/screenshots/transcript.png)
+<img width="1667" height="806" alt="image" src="https://github.com/user-attachments/assets/5ad33803-5430-4138-a05d-765b19c1424c" />
+
 
 <br>
 
 ### 💬 RAG Chat Interface
 
-![Chat](assets/screenshots/chat.png)
+<img width="1618" height="756" alt="image" src="https://github.com/user-attachments/assets/25d576b9-7bda-42bc-9ff3-5cd9e9958ed4" />
+
 
 <br>
 
