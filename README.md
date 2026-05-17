@@ -4,6 +4,56 @@
 
 An AI-powered meeting intelligence tool that takes any YouTube video or local video/audio file and turns it into structured insights — transcripts, summaries, action items, key decisions, and an interactive RAG-powered chat interface.
 
+<div align="center">
+
+[![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![Streamlit](https://img.shields.io/badge/Streamlit-1.35+-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io)
+[![Whisper](https://img.shields.io/badge/OpenAI_Whisper-ASR-412991?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/openai/whisper)
+[![MistralAI](https://img.shields.io/badge/Mistral_AI-LLM-FF7000?style=for-the-badge)](https://mistral.ai)
+[![LangChain](https://img.shields.io/badge/LangChain-RAG-1C3C3C?style=for-the-badge)](https://langchain.com)
+
+</div>
+
+---
+
+## 🚀 Live Demo
+
+<div align="center">
+
+### **[🔗 Launch App →](https://www.google.com)**
+
+*Try it live — no setup required*
+
+</div>
+
+---
+
+## 📸 Screenshots
+
+<br>
+
+### 🏠 Homepage — Dashboard Overview
+
+![Homepage](assets/screenshots/homepage.png)
+
+<br>
+
+### 📝 Transcript & Summary Panel
+
+![Transcript](assets/screenshots/transcript.png)
+
+<br>
+
+### 💬 RAG Chat Interface
+
+![Chat](assets/screenshots/chat.png)
+
+<br>
+
+### 🎬 Full Demo
+
+![Demo](assets/demo.gif)
+
 ---
 
 ## ✨ Features
@@ -107,14 +157,14 @@ Then open [http://localhost:8501](http://localhost:8501) in your browser.
 ## 📦 Key Dependencies
 
 ```
-openai-whisper       # Speech-to-text transcription
-langchain            # LLM orchestration framework
-langchain-mistralai  # Mistral AI integration
-chromadb             # Vector database for RAG
+openai-whisper        # Speech-to-text transcription
+langchain             # LLM orchestration framework
+langchain-mistralai   # Mistral AI integration
+chromadb              # Vector database for RAG
 sentence-transformers # Text embeddings
-yt-dlp               # YouTube audio download
-streamlit            # Web UI framework
-pydub                # Audio processing
+yt-dlp                # YouTube audio download
+streamlit             # Web UI framework
+pydub                 # Audio processing
 ```
 
 ---
@@ -123,19 +173,6 @@ pydub                # Audio processing
 
 - **English**
 - **Hinglish** (Hindi-English code-mixed speech)
-
----
-
-## 📸 Interface Overview
-
-The app features a dark-themed dashboard with:
-
-- **Sidebar** — Input source, language selector, and live pipeline status
-- **Session Title** — Auto-generated title for the meeting
-- **Summary Card** — Concise meeting summary
-- **Full Transcript** — Expandable raw transcript viewer
-- **Action Items · Key Decisions · Open Questions** — Three-column extraction panel
-- **Chat Interface** — Persistent conversation history with the RAG assistant
 
 ---
 
