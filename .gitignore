@@ -1,6 +1,8 @@
-.venv/
-__pycache__/
-*.pyc
 .env
-.idea/
-.vscode/
+downloades/
+*.wav
+*.mp4
+*.mp3
+__pycache__/
+.venv/
+vector_db/
