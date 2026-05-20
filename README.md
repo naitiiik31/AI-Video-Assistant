@@ -14,17 +14,6 @@ An AI-powered meeting intelligence tool that takes any YouTube video or local vi
 
 </div>
 
----
-
-## 🚀 Live Demo
-
-<div align="center">
-
-### **[🔗 Launch App →](https://www.google.com)**
-
-*Try it live — no setup required*
-
-</div>
 
 ---
 
